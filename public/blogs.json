@@ -1,53 +1,54 @@
 [
     {
-      "ID": 12345,
-      "Cover_Image": "https://i.ibb.co/R9nD2JP/cafe-cover.jpg",
-      "Title": "The Secret of Evergreen Forest",
-      "Author": "Sarah Johnson",
-      "Author_Image": "https://example.com/author1.jpg",
-      "Posted_Date": "October 5, 2023",
-      "Reading_Time": "25 minutes",
-      "Hashtag": "#Adventure #Mystery"
+      "id": 1,
+      "cover_image": "https://i.ibb.co/DLXZyG4/digital-business-list-app-interface.jpg",
+      "title": "The Secret of Evergreen Forest",
+      "author": "Sarah Johnson",
+      "author_image": "https://i.ibb.co/jhzY0DS/woman-embracing-book.jpg",
+      "posted_date": "October 5, 2023",
+      "reading_time": 13,
+      "hashtag": "#Adventure #Mystery"
     },
     {
-      "ID": 67890,
-      "Cover_Image": "https://example.com/cover2.jpg",
-      "Title": "Lost in Time: A Journey Through History",
-      "Author": "David Smith",
-      "Author_Image": "https://example.com/author2.jpg",
-      "Posted_Date": "September 18, 2023",
-      "Reading_Time": "40 minutes",
-      "Hashtag": "#History #TimeTravel"
+      "id": 2,
+      "cover_image": "https://i.ibb.co/j8Bd1LD/register-sign-up-membership-concept.jpg",
+      "title": "Lost in Time: A Journey Through History",
+      "author": "David Smith",
+      "author_image": "https://i.ibb.co/R3412TR/charming-woman-enjoying-reading-near-window.jpg",
+      "posted_date": "September 18, 2023",
+      "reading_time": 23,
+      "hashtag": "#History #TimeTravel"
     },
     {
-      "ID": 23456,
-      "Cover_Image": "https://example.com/cover3.jpg",
-      "Title": "Whispers in the Dark",
-      "Author": "Emily Turner",
-      "Author_Image": "https://example.com/author3.jpg",
-      "Posted_Date": "November 2, 2023",
-      "Reading_Time": "30 minutes",
-      "Hashtag": "#Mystery #Suspense"
+      "ID": 3,
+      "cover_image": "https://i.ibb.co/qxvRxRF/corporate-management-strategy-solution-branding-concept.jpg",
+      "title": "Whispers in the Dark",
+      "author": "Emily Turner",
+      "author_image": "https://i.ibb.co/FKRcqkp/woman-reading-comfortable-armchair.jpg",
+      "posted_date": "November 2, 2023",
+      "Reading_Time": 34,
+      "hashtag": "#Mystery #Suspense"
+    },
+  
+    {
+      "id": 4,
+      "cover_image": "https://i.ibb.co/R9nD2JP/cafe-cover.jpg",
+      "title": "The Starship Chronicles",
+      "author": "Michael Roberts",
+      "author_image": "https://i.ibb.co/CmMBvTW/lifestyle-attractive-girl-home.jpg",
+      "posted_date": "October 10, 2023",
+      "reading_time": 55,
+      "hashtag": "#SciFi #SpaceAdventure"
     },
     {
-      "ID": 78901,
-      "Cover_Image": "https://example.com/cover4.jpg",
-      "Title": "The Starship Chronicles",
-      "Author": "Michael Roberts",
-      "Author_Image": "https://example.com/author4.jpg",
-      "Posted_Date": "October 10, 2023",
-      "Reading_Time": "55 minutes",
-      "Hashtag": "#SciFi #SpaceAdventure"
-    },
-    {
-      "ID": 34567,
-      "Cover_Image": "https://example.com/cover5.jpg",
-      "Title": "Cooking with Flavors of the World",
-      "Author": "Lina Garcia",
-      "Author_Image": "https://example.com/author5.jpg",
-      "Posted_Date": "September 25, 2023",
-      "Reading_Time": "20 minutes",
-      "Hashtag": "#Cooking #Culinary"
+      "id": 5,
+      "cover_Image": "https://i.ibb.co/SV2Vxd9/leisure-relaxation-chill-rest-icon.jpg",
+      "title": "Cooking with Flavors of the World",
+      "author": "Lina Garcia",
+      "author_image": "https://i.ibb.co/P6ym73M/darius-bashar-rc-HHrmn6u-K8-unsplash.jpg",
+      "posted_date": "September 25, 2023",
+      "reading_time": 12,
+      "hashtag": "#Cooking #Culinary"
     }
   ]
   
