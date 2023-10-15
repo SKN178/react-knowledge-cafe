@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 12345,
+      "Cover_Image": "https://i.ibb.co/R9nD2JP/cafe-cover.jpg",
+      "Title": "The Secret of Evergreen Forest",
+      "Author": "Sarah Johnson",
+      "Author_Image": "https://example.com/author1.jpg",
+      "Posted_Date": "October 5, 2023",
+      "Reading_Time": "25 minutes",
+      "Hashtag": "#Adventure #Mystery"
+    },
+    {
+      "ID": 67890,
+      "Cover_Image": "https://example.com/cover2.jpg",
+      "Title": "Lost in Time: A Journey Through History",
+      "Author": "David Smith",
+      "Author_Image": "https://example.com/author2.jpg",
+      "Posted_Date": "September 18, 2023",
+      "Reading_Time": "40 minutes",
+      "Hashtag": "#History #TimeTravel"
+    },
+    {
+      "ID": 23456,
+      "Cover_Image": "https://example.com/cover3.jpg",
+      "Title": "Whispers in the Dark",
+      "Author": "Emily Turner",
+      "Author_Image": "https://example.com/author3.jpg",
+      "Posted_Date": "November 2, 2023",
+      "Reading_Time": "30 minutes",
+      "Hashtag": "#Mystery #Suspense"
+    },
+    {
+      "ID": 78901,
+      "Cover_Image": "https://example.com/cover4.jpg",
+      "Title": "The Starship Chronicles",
+      "Author": "Michael Roberts",
+      "Author_Image": "https://example.com/author4.jpg",
+      "Posted_Date": "October 10, 2023",
+      "Reading_Time": "55 minutes",
+      "Hashtag": "#SciFi #SpaceAdventure"
+    },
+    {
+      "ID": 34567,
+      "Cover_Image": "https://example.com/cover5.jpg",
+      "Title": "Cooking with Flavors of the World",
+      "Author": "Lina Garcia",
+      "Author_Image": "https://example.com/author5.jpg",
+      "Posted_Date": "September 25, 2023",
+      "Reading_Time": "20 minutes",
+      "Hashtag": "#Cooking #Culinary"
+    }
+  ]
+  
